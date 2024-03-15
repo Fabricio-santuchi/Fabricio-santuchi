@@ -31,7 +31,6 @@ Here are some ideas to get you started:
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    </div>
     <br>
-
-![](https://komarev.com/ghpvc/?username=Fabricio-santuchi)
   
+  ![](https://komarev.com/ghpvc/?username=Fabricio-santuchi)
 </div>
