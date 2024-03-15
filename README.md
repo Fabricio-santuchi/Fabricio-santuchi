@@ -29,5 +29,3 @@ Here are some ideas to get you started:
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    </div>
 </div>
-      
-![Snake animation](https://github.com/Fabricio-santuchi/Fabricio-santuchi/blob/output/github-contribution-grid-snake.svg)
