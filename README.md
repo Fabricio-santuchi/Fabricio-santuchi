@@ -1,4 +1,4 @@
-### Olá, Eu sou Fabricio Santuchi👋
+### Olá👋, Eu sou Fabricio Santuchi
 
 <!--
 **Fabricio-santuchi/Fabricio-santuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,5 +31,9 @@ Here are some ideas to get you started:
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    </div>
     <br>
-</div>
+  
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/Fabricio-santuchi/Fabricio-santuchi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/Fabricio-santuchi/Fabricio-santuchi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+  ![](https://komarev.com/ghpvc/?username=Fabricio-santuchi)
+</div>
