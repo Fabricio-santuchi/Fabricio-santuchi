@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 <br>
 <div  align="center"> 
   <div style="display: inline_block">
-    <img align="center" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Tecnologias:</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
