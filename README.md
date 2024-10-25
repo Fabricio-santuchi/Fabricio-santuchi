@@ -69,8 +69,8 @@ Estou constantemente aprendendo e expandindo meu conhecimento para seguir em fre
 ---
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Fabricio-santuchi&show_icons=true&theme=midnight-purple&locale=pt-BR)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-santuchi&layout=compact&langs_count=10&theme=midnight-purple&locale=pt-BR)
 ![Sequência de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=Fabricio-santuchi&theme=midnight-purple&locale=pt-BR)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-santuchi&layout=compact&langs_count=20&theme=midnight-purple&locale=pt-BR)
 ![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=Fabricio-santuchi&theme=radical&row=1&column=4)
 ![Total de Repositórios](https://badges.pufler.dev/repos/Fabricio-santuchi)
 
