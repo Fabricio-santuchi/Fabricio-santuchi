@@ -62,7 +62,7 @@ Estou constantemente aprendendo e expandindo meu conhecimento para seguir em fre
 - Nas horas vagas, gosto de aprender novas tecnologias e explorar novos frameworks.
 - Amo colaborar com outros devs e trocar ideias sobre desenvolvimento!
 
-## 🚀 Projetos em Destaque
+## 📁 Projetos em Destaque
 - [Tradutor Interativo](https://github.com/Fabricio-santuchi/Tradutor-Interativo) - Um tradutor que utiliza a API MyMemory.
 - [Comparador de Preços](https://github.com/Fabricio-santuchi/Comparador-de-precos) - Um aplicativo para comparar preços de produtos no Mercado Livre.
 
