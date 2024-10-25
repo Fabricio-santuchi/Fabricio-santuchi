@@ -62,15 +62,18 @@ Estou constantemente aprendendo e expandindo meu conhecimento para seguir em fre
 - Nas horas vagas, gosto de aprender novas tecnologias e explorar novos frameworks.
 - Amo colaborar com outros devs e trocar ideias sobre desenvolvimento!
 
-<!--
-## 🔗 Projetos em Destaque:
-- [Nome do Projeto 1](link-do-projeto-1): Breve descrição do que é e do que você fez.
-- [Nome do Projeto 2](link-do-projeto-2): Breve descrição do que é e do que você fez.
--->
+## 🚀 Projetos em Destaque
+- [Tradutor Interativo](https://github.com/Fabricio-santuchi/Tradutor-Interativo) - Um tradutor que utiliza a API MyMemory.
+- [Comparador de Preços](https://github.com/Fabricio-santuchi/Comparador-de-precos) - Um aplicativo para comparar preços de produtos no Mercado Livre.
+
 ---
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabricio-santuchi&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-santuchi&layout=compact&langs_count=16&theme=midnight-purple"/>
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Fabricio-santuchi&show_icons=true&theme=midnight-purple&locale=pt-BR)
+![Sequência de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=Fabricio-santuchi&theme=midnight-purple&locale=pt-BR)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-santuchi&layout=compact&langs_count=10&theme=midnight-purple&locale=pt-BR)
+![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=Fabricio-santuchi&theme=radical&row=1&column=4)
+![Total de Repositórios](https://badges.pufler.dev/repos/Fabricio-santuchi)
+
+
+
 
