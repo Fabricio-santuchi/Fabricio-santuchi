@@ -72,10 +72,20 @@ Estou constantemente aprendendo e expandindo meu conhecimento para seguir em fre
   <img src="https://github-readme-stats.vercel.app/api?username=Fabricio-santuchi&show_icons=true&theme=midnight-purple&locale=pt-BR" alt="Estatísticas do GitHub" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fabricio-santuchi&theme=midnight-purple&locale=pt-BR" alt="Sequência de Contribuições" width="400"/>
 </div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-santuchi&layout=compact&langs_count=20&theme=midnight-purple&locale=pt-BR" alt="Linguagens Mais Usadas" width="400"/>
   <img src="https://github-profile-trophy.vercel.app/?username=Fabricio-santuchi&theme=radical&row=1&column=4" alt="Troféus do GitHub" width="400"/>
 </div>
-<div align="center"><img src="https://badges.pufler.dev/repos/Fabricio-santuchi" alt="Total de Repositórios" /></div>
+
+<div align="center">
+  <img src="https://badges.pufler.dev/repos/Fabricio-santuchi" alt="Total de Repositórios" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+
 
 
