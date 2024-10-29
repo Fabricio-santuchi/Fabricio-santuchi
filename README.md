@@ -65,6 +65,7 @@ Estou constantemente aprendendo e expandindo meu conhecimento para seguir em fre
 ## 📁 Projetos em Destaque
 - [Tradutor Interativo](https://github.com/Fabricio-santuchi/Tradutor-Interativo) - Um tradutor que utiliza a API MyMemory.
 - [Comparador de Preços](https://github.com/Fabricio-santuchi/Comparador-de-precos) - Um aplicativo para comparar preços de produtos no Mercado Livre.
+- [Clone da Tela de Login Instragram](https://github.com/Fabricio-santuchi/Clone-Login-Instagram) - Um projeto que reproduz a interface de login do Instagram, desenvolvido em React com um design responsivo e estilização semelhante ao original.
 
 ---
 
