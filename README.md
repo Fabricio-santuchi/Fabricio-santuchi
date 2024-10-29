@@ -82,10 +82,6 @@ Estou constantemente aprendendo e expandindo meu conhecimento para seguir em fre
   <img src="https://badges.pufler.dev/repos/Fabricio-santuchi" alt="Total de Repositórios" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
 
 
 
