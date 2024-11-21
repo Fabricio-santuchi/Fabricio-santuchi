@@ -87,6 +87,12 @@ Estou constantemente aprendendo e expandindo meu conhecimento para seguir em fre
   - **O que aprendi**: Desenvolvimento de uma experiência de navegação fluida e otimizada para dispositivos móveis, além de estilizar eficientemente com Tailwind CSS.
 
 ### 📚 Projetos de Cursos
+
+#### **[Aluroni](https://github.com/Fabricio-santuchi/Aluroni)**  
+- **Descrição**: Aplicativo de cardápio digital para restaurante fictício, focado em navegação entre rotas e exibição dinâmica de informações.  
+- **Tecnologias utilizadas**: React, React Router Dom, TypeScript, SCSS, Classnames, Normalize.css.
+- **O que aprendi**: Navegação com React Router, tipagem com TypeScript e estilização com SCSS.  
+
 < Loading... />
 
 <!-- 
