@@ -66,22 +66,22 @@ Estou constantemente aprendendo e expandindo meu conhecimento para seguir em fre
 
 ## 📁 Projetos em Destaque
 
-- **[Tradutor Interativo](https://github.com/Fabricio-santuchi/Tradutor-Interativo)**
+#### **[Tradutor Interativo](https://github.com/Fabricio-santuchi/Tradutor-Interativo)**
   - **Descrição**: Um tradutor interativo que utiliza a API MyMemory para traduzir textos entre diferentes idiomas.
   - **Tecnologias utilizadas**: React, Axios, MyMemory API, Tailwind CSS, ESLint.
   - **O que aprendi**: Como integrar uma API de tradução com React, usando Axios para requisições HTTP e gerenciando o estado com hooks.
 
-- **[Comparador de Preços](https://github.com/Fabricio-santuchi/Comparador-de-precos)**
+#### **[Comparador de Preços](https://github.com/Fabricio-santuchi/Comparador-de-precos)**
   - **Descrição**: Um aplicativo para comparar preços de produtos no Mercado Livre.
   - **Tecnologias utilizadas**: React, Axios, Chart.js, Styled-components, ESLint.
   - **O que aprendi**: Implementação de chamadas API para buscar preços e exibição de dados com gráficos, além de trabalhar com styled-components e layout responsivo.
 
-- **[Clone da Tela de Login Instagram](https://github.com/Fabricio-santuchi/Clone-Login-Instagram)**
+#### **[Clone da Tela de Login Instagram](https://github.com/Fabricio-santuchi/Clone-Login-Instagram)**
   - **Descrição**: Um clone da tela de login do Instagram com design responsivo e similar ao original.
   - **Tecnologias utilizadas**: React, Tailwind CSS, Vite, React Icons, ESLint.
   - **O que aprendi**: Criação de interfaces responsivas com foco no design e usabilidade, usando flexbox e grid para layout.
 
-- **[Caffeine Oasis](https://github.com/Fabricio-santuchi/Caffeine-Oasis)**
+#### **[Caffeine Oasis](https://github.com/Fabricio-santuchi/Caffeine-Oasis)**
   - **Descrição**: Aplicativo de cafeteria com uma interface moderna e fluida para explorar e selecionar bebidas.
   - **Tecnologias utilizadas**: React, Tailwind CSS, React Icons, ESLint, Tailwind Scrollbar.
   - **O que aprendi**: Desenvolvimento de uma experiência de navegação fluida e otimizada para dispositivos móveis, além de estilizar eficientemente com Tailwind CSS.
