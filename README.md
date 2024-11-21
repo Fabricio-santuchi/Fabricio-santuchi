@@ -12,11 +12,13 @@ Sou apaixonado(a) por desenvolvimento web e sempre em busca de novos desafios pa
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) 
 - **HTML5**: Estruturação semântica e acessível para a web.  
 - **CSS3**: Estilização moderna e responsiva com pré-processadores como **Sass** e frameworks como **Tailwind**.  
 - **JavaScript**: Criação de interações dinâmicas e responsivas.  
 - **React**: Construção de interfaces de usuário reativas e escaláveis.
-- **Axios**: Realização de requisições HTTP simplificadas para comunicação com APIs. 
+- **Axios**: Realização de requisições HTTP simplificadas para comunicação com APIs.
+- **TypeScript**: Adicionando tipagem estática para JavaScript.  
 
 ### ⚙️ Back-End:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
