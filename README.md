@@ -65,12 +65,6 @@ Estou constantemente aprendendo e expandindo meu conhecimento para seguir em fre
 - Amo colaborar com outros devs e trocar ideias sobre desenvolvimento!
 
 ## 📁 Projetos em Destaque
-- [Tradutor Interativo](https://github.com/Fabricio-santuchi/Tradutor-Interativo) - Um tradutor que utiliza a API MyMemory.
-- [Comparador de Preços](https://github.com/Fabricio-santuchi/Comparador-de-precos) - Um aplicativo para comparar preços de produtos no Mercado Livre.
-- [Clone da Tela de Login Instragram](https://github.com/Fabricio-santuchi/Clone-Login-Instagram) - Um projeto que reproduz a interface de login do Instagram, desenvolvido em React com um design responsivo e estilização semelhante ao original.
-- [Caffeine Oasis](https://github.com/Fabricio-santuchi/Caffeine-Oasis) - Um aplicativo de cafeteria que oferece uma interface atraente e responsiva, permitindo aos usuários explorar e escolher entre diversas opções de bebidas. O projeto é otimizado para uma experiência de navegação fluida em dispositivos móveis e desktops, destacando a estética visual com um design moderno e envolvente.
-
-## 📁 Projetos em Destaque
 
 - **[Tradutor Interativo](https://github.com/Fabricio-santuchi/Tradutor-Interativo)**
   - **Descrição**: Um tradutor interativo que utiliza a API MyMemory para traduzir textos entre diferentes idiomas.
@@ -93,7 +87,7 @@ Estou constantemente aprendendo e expandindo meu conhecimento para seguir em fre
   - **O que aprendi**: Desenvolvimento de uma experiência de navegação fluida e otimizada para dispositivos móveis, além de estilizar eficientemente com Tailwind CSS.
 
 ### 📚 Projetos de Cursos
-< Reload... />
+< Loading... />
 
 <!-- 
 #### **[Nome do Projeto de Curso 1](link para o repositório)**  
@@ -123,5 +117,9 @@ Estou constantemente aprendendo e expandindo meu conhecimento para seguir em fre
 </div>
 
 
-
+<!--## 📁 Projetos em Destaque
+- [Tradutor Interativo](https://github.com/Fabricio-santuchi/Tradutor-Interativo) - Um tradutor que utiliza a API MyMemory.
+- [Comparador de Preços](https://github.com/Fabricio-santuchi/Comparador-de-precos) - Um aplicativo para comparar preços de produtos no Mercado Livre.
+- [Clone da Tela de Login Instragram](https://github.com/Fabricio-santuchi/Clone-Login-Instagram) - Um projeto que reproduz a interface de login do Instagram, desenvolvido em React com um design responsivo e estilização semelhante ao original.
+- [Caffeine Oasis](https://github.com/Fabricio-santuchi/Caffeine-Oasis) - Um aplicativo de cafeteria que oferece uma interface atraente e responsiva, permitindo aos usuários explorar e escolher entre diversas opções de bebidas. O projeto é otimizado para uma experiência de navegação fluida em dispositivos móveis e desktops, destacando a estética visual com um design moderno e envolvente.-->
 
