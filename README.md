@@ -46,9 +46,10 @@ Sou apaixonado(a) por desenvolvimento web e sempre em busca de novos desafios pa
 
 ### 📱 Minhas Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-santuchi-948231303)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/fabriciosantuchi/profilecard/?igsh=bHYwdWRtM3B1cTB2)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/fabriciosantuchi)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fabriciosantuchiof@gmail.com)
+
+<!--[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/fabriciosantuchi/profilecard/?igsh=bHYwdWRtM3B1cTB2)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/fabriciosantuchi)-->
 
 ## 📈 Buscando evoluir sempre:
 
