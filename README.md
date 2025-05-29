@@ -10,25 +10,42 @@ Sou apaixonado(a) por desenvolvimento web e sempre em busca de novos desafios pa
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled--Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)  
 - **HTML5**: Estruturação semântica e acessível para a web.  
 - **CSS3**: Estilização moderna e responsiva com pré-processadores como **Sass** e frameworks como **Tailwind**.  
 - **JavaScript**: Criação de interações dinâmicas e responsivas.  
-- **React**: Construção de interfaces de usuário reativas e escaláveis.
 - **Axios**: Realização de requisições HTTP simplificadas para comunicação com APIs.
 - **TypeScript**: Adicionando tipagem estática para JavaScript.  
+- **React**: Construção de interfaces de usuário reativas e escaláveis. 
+    * Uso de **Hooks** como `useState`, `useEffect`, `useReducer`
+    * **Context API** para gerenciamento de estado global
+    * **React Router** para navegação SPA
+    * **Formik + Yup** para formulários e validações
+    * Criação de **hooks customizados** reutilizáveis
+- **Styled Components:** Estilo baseado em componentes, com escopo local e lógica de temas.
+- **Vite:** Ambiente moderno de build e desenvolvimento com Hot Module Replacement (HMR).
+- **Next.js (App Router e API Routes):** Renderização híbrida (SSR/SSG), rotas dinâmicas com estrutura `/app`, e criação de APIs com `/app/api`.
 
 ### ⚙️ Back-End:
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Winston](https://img.shields.io/badge/Winston-000000?style=flat-square&logo=winston&logoColor=white) 
 - **Node.js**: Desenvolvimento de aplicações back-end em JavaScript.  
 - **Express**: Framework rápido e minimalista para APIs e servidores.  
 - **MongoDB**: Banco de dados NoSQL para armazenamento flexível e escalável.
-- **Mongoose**: Biblioteca para modelar dados e interagir com MongoDB de forma fácil e intuitiva.  
+- **Mongoose:** ODM (Object Data Modeling) para MongoDB com validação e modelagem de schemas.
+- **PostgreSQL:** Banco de dados relacional com forte consistência, usado em projetos com estrutura mais robusta.
+- **Prisma ORM:** ORM moderno para trabalhar com bancos SQL como PostgreSQL, usando modelagem declarativa e migrations.
+- **Winston:** Biblioteca de logging utilizada para monitorar e registrar eventos e erros de forma centralizada.
 
 ### 📦 Controle de Versão:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
@@ -39,8 +56,10 @@ Sou apaixonado(a) por desenvolvimento web e sempre em busca de novos desafios pa
 ### 🧑‍💻 O que estou aprendendo agora:
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-FF6F20?style=flat-square&logo=react&logoColor=white)
-- **TypeScript**: Adicionando tipagem estática para JavaScript.  
+- **TypeScript**: Adicionando tipagem estática para JavaScript.
+- **Next.js (App Router e API Routes):** Renderização híbrida (SSR/SSG), rotas dinâmicas com estrutura `/app`, e criação de APIs com `/app/api`.
 - **Jest**: Framework de testes para aplicações JavaScript.  
 - **React Testing Library**: Biblioteca para testar componentes React de forma eficiente.
 
