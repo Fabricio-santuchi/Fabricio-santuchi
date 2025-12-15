@@ -1,4 +1,4 @@
-# Olá, eu sou Fabricio Santuchi 👋 <img src="https://komarev.com/ghpvc/?username=Fabricio-santuchi" align="right" />
+<!--# Olá, eu sou Fabricio Santuchi 👋 <img src="https://komarev.com/ghpvc/?username=Fabricio-santuchi" align="right" />
 
 Sou apaixonado(a) por desenvolvimento web e sempre em busca de novos desafios para melhorar minhas habilidades. Atualmente, estou me especializando em tecnologias front-end e back-end para criar aplicações completas e escaláveis. 🚀
 
@@ -67,9 +67,6 @@ Sou apaixonado(a) por desenvolvimento web e sempre em busca de novos desafios pa
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-santuchi-948231303)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fabriciosantuchiof@gmail.com)
 
-<!--[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/fabriciosantuchi/profilecard/?igsh=bHYwdWRtM3B1cTB2)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/fabriciosantuchi)-->
-
 ## 📈 Buscando evoluir sempre:
 
 Estou constantemente aprendendo e expandindo meu conhecimento para seguir em frente na minha carreira como desenvolvedor(a). Acredito que cada novo desafio é uma oportunidade para crescer e aprimorar minhas habilidades.
@@ -115,7 +112,9 @@ Estou constantemente aprendendo e expandindo meu conhecimento para seguir em fre
 
 < Loading... />
 
-<!-- 
+
+
+
 #### **[Nome do Projeto de Curso 1](link para o repositório)**  
 - **Descrição**: Resumo do projeto desenvolvido durante o curso.  
 - **Tecnologias utilizadas**: HTML, CSS, JavaScript, React.  
@@ -124,7 +123,10 @@ Estou constantemente aprendendo e expandindo meu conhecimento para seguir em fre
 #### **[Nome do Projeto de Curso 2](link para o repositório)**  
 - **Descrição**: Breve descrição do projeto de aprendizado.  
 - **Tecnologias utilizadas**: Node.js, Express, MongoDB.  
-- **O que aprendi**: Conceitos de back-end e integração de banco de dados. -->
+- **O que aprendi**: Conceitos de back-end e integração de banco de dados. 
+
+
+
 
 ---
 
@@ -140,12 +142,130 @@ Estou constantemente aprendendo e expandindo meu conhecimento para seguir em fre
 
 <div align="center">
   <img src="https://badges.pufler.dev/repos/Fabricio-santuchi" alt="Total de Repositórios" />
+</div>-->
+
+# Olá, eu sou Fabricio Santuchi 👋
+
+<img src="https://komarev.com/ghpvc/?username=Fabricio-santuchi" align="right" />
+
+Desenvolvedor **Front-end** focado na criação de **interfaces modernas, responsivas e performáticas**, com atenção à experiência do usuário e boas práticas de desenvolvimento. Trabalho principalmente com **React, TypeScript e Next.js**, possuindo também conhecimento em back-end para integração com APIs e bancos de dados. 🚀
+
+---
+
+## 🚀 Stack Principal
+
+### 🌐 Front-end
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square\&logo=sass\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square\&logo=tailwind-css\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square\&logo=vite\&logoColor=white)
+
+* Desenvolvimento de interfaces **responsivas e acessíveis**
+* Criação de componentes reutilizáveis e escaláveis
+* Consumo e integração de APIs REST
+* Foco em performance, UX e organização de código
+
+---
+
+## 🧠 Conhecimentos em Desenvolvimento
+
+### 🟦 TypeScript
+
+* Tipagem estática para JavaScript
+* Tipagem de props, estados e funções em aplicações React
+* Utilização em projetos com React e Next.js
+
+### 🟦 Next.js
+
+* Estrutura **App Router (/app)**
+* Renderização híbrida (**SSR / SSG**)
+* Rotas dinâmicas
+* Criação de APIs com **/app/api**
+* Integração com serviços externos
+
+---
+
+## ⚙️ Back-end (Conhecimento)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square\&logo=mongoose\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square\&logo=prisma\&logoColor=white)
+
+* Criação de APIs REST com Node.js e Express
+* Integração com bancos de dados NoSQL e SQL
+* Modelagem de dados com Mongoose e Prisma ORM
+
+---
+
+## 🧪 Testes (em evolução)
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square\&logo=jest\&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-FF6F20?style=flat-square\&logo=react\&logoColor=white)
+
+* Testes unitários com Jest
+* Testes de componentes focados em comportamento do usuário
+
+---
+
+## 📁 Projetos em Destaque
+
+### 🔹 Tradutor Interativo
+
+* Aplicação para tradução de textos utilizando API externa
+* **Stack:** React, TypeScript, Axios, Tailwind CSS
+* **Destaque:** Integração com API e gerenciamento de estado
+
+### 🔹 Comparador de Preços
+
+* Aplicação para comparação de preços de produtos
+* **Stack:** React, Axios, Styled-components
+* **Destaque:** Consumo de API e visualização de dados
+
+### 🔹 Clone Login Instagram
+
+* Interface inspirada na tela de login do Instagram
+* **Stack:** React, Tailwind CSS, Vite
+* **Destaque:** Design responsivo e fidelidade visual
+
+### 🔹 Caffeine Oasis
+
+* Interface moderna para cafeteria
+* **Stack:** React, Tailwind CSS
+* **Destaque:** UX fluida e layout responsivo
+
+---
+
+## 🎯 Objetivos Atuais
+
+* Evoluir continuamente em **TypeScript**
+* Aprimorar conhecimentos em **testes automatizados**
+* Criar projetos com foco em **UX, performance e qualidade**
+* Contribuir para projetos open-source
+
+---
+
+## 📱 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/fabricio-santuchi-948231303)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:fabriciosantuchiof@gmail.com)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fabricio-santuchi&show_icons=true&theme=midnight-purple" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fabricio-santuchi&theme=midnight-purple" width="400" />
 </div>
 
-
-<!--## 📁 Projetos em Destaque
-- [Tradutor Interativo](https://github.com/Fabricio-santuchi/Tradutor-Interativo) - Um tradutor que utiliza a API MyMemory.
-- [Comparador de Preços](https://github.com/Fabricio-santuchi/Comparador-de-precos) - Um aplicativo para comparar preços de produtos no Mercado Livre.
-- [Clone da Tela de Login Instragram](https://github.com/Fabricio-santuchi/Clone-Login-Instagram) - Um projeto que reproduz a interface de login do Instagram, desenvolvido em React com um design responsivo e estilização semelhante ao original.
-- [Caffeine Oasis](https://github.com/Fabricio-santuchi/Caffeine-Oasis) - Um aplicativo de cafeteria que oferece uma interface atraente e responsiva, permitindo aos usuários explorar e escolher entre diversas opções de bebidas. O projeto é otimizado para uma experiência de navegação fluida em dispositivos móveis e desktops, destacando a estética visual com um design moderno e envolvente.-->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-santuchi&layout=compact&theme=midnight-purple" width="400" />
+</div>
 
