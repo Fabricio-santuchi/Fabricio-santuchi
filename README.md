@@ -214,36 +214,85 @@ Desenvolvedor **Front-end** focado na criação de **interfaces modernas, respon
 * Testes unitários com Jest
 * Testes de componentes focados em comportamento do usuário
 
-<!--
 ---
 
 ## 📁 Projetos em Destaque
 
-### 🔹 Tradutor Interativo
+## 📊 Sales Dashboard Administrativo
 
-* Aplicação para tradução de textos utilizando API externa
-* **Stack:** React, TypeScript, Axios, Tailwind CSS
-* **Destaque:** Integração com API e gerenciamento de estado
+Dashboard administrativo desenvolvido para visualização de dados de vendas e métricas de negócio, consumindo dados diretamente do backend.
 
-### 🔹 Comparador de Preços
+### Funcionalidades
+- Visualização de métricas de vendas
+- Indicadores e estatísticas
+- Gráficos dinâmicos
+- Consumo de dados do backend
+- Atualização automática das informações
 
-* Aplicação para comparação de preços de produtos
-* **Stack:** React, Axios, Styled-components
-* **Destaque:** Consumo de API e visualização de dados
+### Tecnologias
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Prisma ORM
+- PostgreSQL
 
-### 🔹 Clone Login Instagram
+Projeto desenvolvido para fins de estudo e portfólio.
 
-* Interface inspirada na tela de login do Instagram
-* **Stack:** React, Tailwind CSS, Vite
-* **Destaque:** Design responsivo e fidelidade visual
+## 📝 To-Do List Fullstack
 
-### 🔹 Caffeine Oasis
+Aplicação Fullstack para gerenciamento de tarefas com CRUD completo e persistência em banco de dados.
 
-* Interface moderna para cafeteria
-* **Stack:** React, Tailwind CSS
-* **Destaque:** UX fluida e layout responsivo
+### Funcionalidades
+- Criar tarefas
+- Editar tarefas
+- Concluir tarefas
+- Excluir tarefas
+- API integrada
+- Dados persistidos no banco de dados
 
--->
+### Tecnologias
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Prisma ORM
+- PostgreSQL
+
+Projeto desenvolvido para fins de estudo e portfólio.
+
+## 🌍 Tradutor Interativo
+
+Aplicação web para tradução de textos utilizando API externa.
+
+### Funcionalidades
+- Tradução de textos em tempo real
+- Consumo de API externa
+- Gerenciamento de estado
+
+### Tecnologias
+- React
+- TypeScript
+- Axios
+- Tailwind CSS
+
+Projeto desenvolvido para fins de estudo e portfólio.
+
+## ☕ Caffeine Oasis
+
+Aplicação web com foco em interface e experiência do usuário.
+
+### Funcionalidades
+- Interface moderna
+- Layout responsivo
+- Experiência de navegação fluida
+
+### Tecnologias
+- React
+- Tailwind CSS
+
+Projeto desenvolvido para fins de estudo e portfólio.
+
 ---
 
 ## 🎯 Objetivos Atuais
