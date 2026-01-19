@@ -214,6 +214,7 @@ Desenvolvedor **Front-end** focado na criação de **interfaces modernas, respon
 * Testes unitários com Jest
 * Testes de componentes focados em comportamento do usuário
 
+<!--
 ---
 
 ## 📁 Projetos em Destaque
@@ -242,6 +243,7 @@ Desenvolvedor **Front-end** focado na criação de **interfaces modernas, respon
 * **Stack:** React, Tailwind CSS
 * **Destaque:** UX fluida e layout responsivo
 
+-->
 ---
 
 ## 🎯 Objetivos Atuais
