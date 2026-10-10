@@ -37,7 +37,6 @@ Calculadora que mostra quanto custa deixar um aparelho ligado (por hora, dia, m�
 |---|---|---|---|
 | 📊 **Sales Dashboard** | Painel administrativo de vendas, pedidos e clientes, com gráficos e API própria | Next.js · TypeScript · Prisma · PostgreSQL | [Demo](https://dashboard-control-cyan.vercel.app) · [Código](https://github.com/Fabricio-santuchi/Sales-Dashboard-Administrativo) |
 | 📝 **To-Do Fullstack** | Lista de tarefas com CRUD completo e dados persistidos no banco | Next.js · TypeScript · Prisma · PostgreSQL | [Demo](https://lista-de-tarefas-nine-blond.vercel.app) · [Código](https://github.com/Fabricio-santuchi/To-Do-List-Fullstack) |
-| 🛒 **Comparador de Preços** | Busca produtos em tempo real na API do Mercado Livre | React · Vite · API REST | [Demo](https://comparador-de-precos-rho.vercel.app) · [Código](https://github.com/Fabricio-santuchi/Comparador-de-precos) |
 
 ---
 
