@@ -1,6 +1,7 @@
 # Olá, eu sou o Fabricio Santuchi 👋
 
 **Suporte Técnico & Infraestrutura de TI · Desenvolvedor Front-end (React, Next.js, TypeScript)**
+
 📍 Campos dos Goytacazes, RJ · 🎓 Sistemas de Informação (conclusão dez/2026) · 💼 Aberto a oportunidades
 
 Técnico de informática desde 2018: monto, mantenho e configuro computadores e redes, e faço atendimento presencial e remoto. Também desenvolvo aplicações web de ponta a ponta, do código ao deploy, com testes automatizados e CI.
