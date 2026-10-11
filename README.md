@@ -44,8 +44,10 @@ Calculadora que mostra quanto custa deixar um aparelho ligado (por hora, dia, m�
 
 - Montagem, manutenção preventiva e corretiva, diagnóstico e troca de peças
 - Formatação e instalação de Windows, drivers e softwares
+- Reparo e otimização do Windows: `sfc`, `DISM`, `chkdsk`, `msconfig`, limpeza de temporários e prefetch
 - Redes: roteadores, repetidores, Wi-Fi, crimpagem de cabos e redirecionamento de portas
 - Diagnóstico de rede com `ping`, `ipconfig` e `tracert`
+- Atualização de softwares em lote com `winget`
 - Suporte remoto com AnyDesk, TeamViewer e Parsec
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
